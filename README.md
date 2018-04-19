@@ -23,7 +23,7 @@ version: default value is "2016-07-01".
 secret_key: you can use environment variables.
 
 ```bash
-export PAYJP_SECRET_KEY="YOUR SECRET KEY"
+export PAIDY_SECRET_KEY="YOUR SECRET KEY"
 ```
 
 ## License
